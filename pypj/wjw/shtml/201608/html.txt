@@ -1,0 +1,740 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="viewport" content="width=device-width,minimum-scale=1,maximum-scale=1,initial-scale=no">
+
+
+<title>2016Äê8ÔÂÉÏº£ÊÐ·¨¶¨±¨¸æ´«È¾²¡ÒßÇé</title>
+<!-¹¤¾ßÌõÑùÊ½-->
+<link href="http://www.shanghai.gov.cn/jhelper_V2.0/jhelper_tool_style.css" rel="stylesheet" type="text/css" />
+<script src="/wsj/js/jhelper_config01.js"></script>
+<script src="http://www.shanghai.gov.cn/jhelper_V2.0/jhelper_2.0.js" id="jhelper_js" type="text/javascript"></script>
+<script type="text/javascript" src="/wsj/js/jquery-1.8.2.min.js"></script>
+<!-¹¤¾ßÌõ¼°Ïà¹Ø¿ì½Ý¼üÅäÖÃÒýÓÃ£ºÂ·¾¶ÖÐºìÉ«×ÖÌåÄ¿Â¼¸÷µ¥Î»¶ÀÁ¢£¨¼û¸½±í£©£¬ÅäÖÃÎÄ¼þ¸ù¾Ý¸÷µ¥Î»Çé¿öÅäÖÃ£¨¼ûÅäÖÃËµÃ÷£©-->
+
+<script type="text/javascript" src="/wsj/js/base.js"></script>
+<script type="text/javascript" src="/wsj/js/weibo.js"></script>
+<link href="/wsj/css/reset.css" rel="stylesheet" type="text/css" />
+<link href="/wsj/css/grid.css" rel="stylesheet" type="text/css" />
+<link href="/wsj/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+<link href="/wsj/css/bootstrap-responsive.min.css"  rel="stylesheet" type="text/css" />
+<link href="/wsj/css/base.css"  rel="stylesheet" type="text/css" />
+<link rel="shortcut icon" type="image/x-ico" href="/wsj/images/shortcuticon.ico" />
+<script type="text/javascript"> 
+function doZoom(size) 
+{ 
+var zoom=document.all?document.all['Zoom']:document.getElementById('Zoom'); 
+zoom.style.fontSize=size+'px'; 
+} 
+
+
+
+</script> 
+
+</head>
+
+<body onload="initJSHelperEvent();">
+<div id="container" class="home">
+<div id="accessNull" class="skip"></div>
+<div id="skip">
+<div id="header"></div>
+<a id="accesshelp" title="ÐÂ´°¿Ú´ò¿ªÎÞÕÏ°­²Ù×÷ËµÃ÷Ò³Ãæ" href="/wsj/n439/n3889/index.html#div0" target="_blank">ÎÞÕÏ°­²Ù×÷ËµÃ÷</a>
+<a href="javascript:createNodeDiv('mainNav', 'ÒÑ¶¨Î»µ½ÍøÕ¾µ¼º½');" title="Ìø×ªµ½ÍøÕ¾µ¼º½Çø">Ìø×ªµ½ÍøÕ¾µ¼º½Çø</a>
+<a href="javascript:createNodeDiv('main', 'ÒÑ¶¨Î»µ½Ö÷ÒªÄÚÈÝÇøÓò');" title="Ìø×ªµ½Ö÷ÒªÄÚÈÝÇøÓò">Ìø×ªµ½Ö÷ÒªÄÚÈÝÇøÓò</a></div>
+<div class="banner">
+
+<script width="100%" height="140px" scrolling="No" frameborder="0" id="bottom" name="bottom" src="/wsj/js/top.js" type="text/javascript"></script>
+    <div class="content">
+
+        <div id="main" class="main">
+        	<div class="breadCrumb">
+
+            	<span>ÄúÏÖÔÚËùÔÚµÄÎ»ÖÃ£º
+            	<a href="/wsj/index.html" title="Ê×Ò³">Ê×Ò³</a>&nbsp;&gt;&nbsp;<a href="/wsj/n429/index.html"  title="ÐÅÏ¢¹«¿ª">ÐÅÏ¢¹«¿ª</a>&nbsp;&gt;&nbsp;ÒßÇéÐÅÏ¢
+
+</span>
+
+               
+
+            </div>
+
+            <div class="mainRight g17 grid gtop" id="leftSidebar">
+
+                <div class="box rightBox newsView">
+                <div class="Padding">
+
+                	<h3>
+                    	<div id="ivs_title"><strong>2016Äê8ÔÂÉÏº£ÊÐ·¨¶¨±¨¸æ´«È¾²¡ÒßÇé</strong></div>
+                    	<div id="ivs_player" class="tCenter"></div>
+
+                        <span>·¢²¼Ê±¼ä£º2016-9-28</span>
+
+                        <div class="fontChange">×ÖÌå£º<a href="javascript:doZoom(16)" class="f16">´ó</a> <a href="javascript:doZoom(14)" class="f14">ÖÐ</a> <a href="javascript:doZoom(12)">Ð¡</a></div>
+                    </h3>
+		
+          
+          
+          
+           <div id="ivs_content">  <div id="Zoom">    
+          
+                <p>
+	¡¡¡¡2016Äê8ÔÂ1ÈÕÖÁ8ÔÂ31ÈÕ£¬±¾ÊÐ¹²±¨¸æ·¨¶¨¹ÜÀíµÄ¼×ÒÒ±ûÀà´«È¾²¡10205Àý£¬ËÀÍö4ÈË¡£</p>
+<p>
+	¡¡¡¡ÆäÖÐ£¬ÎÞ¼×Àà´«È¾²¡±¨¸æ¡£</p>
+<p>
+	¡¡¡¡ÒÒÀà´«È¾²¡¹²±¨¸æ14ÖÖ2972Àý£¬ËÀÍö4ÈË£»ÎÞÈË¸ÐÈ¾¸ßÖÂ²¡ÐÔÇÝÁ÷¸Ð£¨H5N1£©¡¢´«È¾ÐÔ·ÇµäÐÍ·ÎÑ×¡¢¼¹Ëè»ÒÖÊÑ×²¡Àý±¨¸æ£»±¨¸æ·¢²¡Êý¾ÓÇ°ÎåÎ»µÄ²¡ÖÖÒÀ´ÎÎªÃ·¶¾¡¢ÁÜ²¡¡¢·Î½áºË¡¢²¡¶¾ÐÔ¸ÎÑ×¡¢ÐÉºìÈÈ£¬Õ¼±¾ÔÂ×ÜÒßÇéµÄ96.57%£»4ÀýËÀÍö²¡Àý·Ö±ðÎª²¡¶¾ÐÔ¸ÎÑ×£¨2Àý£©¡¢°¬×Ì²¡£¨1Àý£©ºÍ·Î½áºË£¨1Àý£©¡£</p>
+<p>
+	¡¡¡¡±ûÀà´«È¾²¡¹²±¨¸æ5ÖÖ7233Àý£¬ÎÞËÀÍö²¡Àý±¨¸æ¡£±¨¸æ·¢²¡Êý¾ÓÇ°ÈýÎ»µÄ²¡ÖÖÒÀ´ÎÎªÊÖ×ã¿Ú²¡¡¢ÆäËü¸ÐÈ¾ÐÔ¸¹Ðº²¡¡¢Á÷ÐÐÐÔÈùÏÙÑ×£¬Õ¼±ûÀà´«È¾²¡±¨¸æ·¢²¡×ÜÊýµÄ99.06%¡£</p>
+<p>
+	¡¡¡¡¸½¼þ£º2016Äê8ÔÂÉÏº£ÊÐ·¨¶¨±¨¸æ´«È¾²¡·¢²¡ÊýÍ³¼Æ±í</p>
+<table border="0" cellpadding="0" cellspacing="0" style="width:461px;" width="463">
+	<colgroup>
+		<col style="text-align: center;" />
+		<col span="3" style="text-align: center;" />
+	</colgroup>
+	<tbody>
+		<tr height="24">
+			<td colspan="4" height="24" style="height: 24px; width: 461px; text-align: center;">
+				2016Äê8ÔÂÉÏº£ÊÐ·¨¶¨±¨¸æ´«È¾²¡·¢²¡ÊýÍ³¼Æ±í</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height: 24px; width: 169px; text-align: center;">
+				²¡Ãû</td>
+			<td style="width: 97px; text-align: center;">
+				±¾ÊÐ¾ÓÃñ</td>
+			<td style="width: 97px; text-align: center;">
+				ÍâÀ´ÈË¿Ú</td>
+			<td style="width: 97px; text-align: center;">
+				ºÏ¼Æ</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				¼×ÒÒÀà´«È¾²¡ºÏ¼Æ</td>
+			<td style="width:97px;">
+				2100</td>
+			<td style="width:97px;">
+				872</td>
+			<td style="width:97px;">
+				2972</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				Êó Òß</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				»ô ÂÒ</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				´«È¾ÐÔ·ÇµäÐÍ·ÎÑ×</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				°¬×Ì²¡</td>
+			<td style="width:97px;">
+				27</td>
+			<td style="width:97px;">
+				24</td>
+			<td style="width:97px;">
+				51</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				²¡¶¾ÐÔ¸ÎÑ×</td>
+			<td style="width:97px;">
+				136</td>
+			<td style="width:97px;">
+				45</td>
+			<td style="width:97px;">
+				181</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				ÆäÖÐ£º£¨1£©¼×¸Î</td>
+			<td style="width:97px;">
+				14</td>
+			<td style="width:97px;">
+				4</td>
+			<td style="width:97px;">
+				18</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; £¨2£©ÒÒ¸Î</td>
+			<td style="width:97px;">
+				38</td>
+			<td style="width:97px;">
+				18</td>
+			<td style="width:97px;">
+				56</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; £¨3£©±û¸Î</td>
+			<td style="width:97px;">
+				4</td>
+			<td style="width:97px;">
+				1</td>
+			<td style="width:97px;">
+				5</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; £¨4£©¶¡¸Î</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; £¨5£©Îì¸Î</td>
+			<td style="width:97px;">
+				44</td>
+			<td style="width:97px;">
+				11</td>
+			<td style="width:97px;">
+				55</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; £¨6£©¸ÎÑ×£¨Î´·ÖÐÍ£©</td>
+			<td style="width:97px;">
+				36</td>
+			<td style="width:97px;">
+				11</td>
+			<td style="width:97px;">
+				47</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				¼¹Ëè»ÒÖÊÑ×</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				ÈË¸ÐÈ¾¸ßÖÂ²¡ÐÔÇÝÁ÷¸Ð</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				Âé Õî</td>
+			<td style="width:97px;">
+				7</td>
+			<td style="width:97px;">
+				20</td>
+			<td style="width:97px;">
+				27</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				Á÷ÐÐÐÔ³öÑªÈÈ</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				¿ñ È® ²¡</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				Á÷ÐÐÐÔÒÒÐÍÄÔÑ×</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				1</td>
+			<td style="width:97px;">
+				1</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				µÇ¸ïÈÈ</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				2</td>
+			<td style="width:97px;">
+				2</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				Ì¿ ¾Ò</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				Ï¸¾úÐÔºÍ°¢Ã×°ÍÐÔÁ¡¼²</td>
+			<td style="width:97px;">
+				9</td>
+			<td style="width:97px;">
+				3</td>
+			<td style="width:97px;">
+				12</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				·Î½áºË</td>
+			<td style="width:97px;">
+				388</td>
+			<td style="width:97px;">
+				250</td>
+			<td style="width:97px;">
+				638</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				ÉËº®ºÍ¸±ÉËº®</td>
+			<td style="width:97px;">
+				2</td>
+			<td style="width:97px;">
+				1</td>
+			<td style="width:97px;">
+				3</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				Á÷ÐÐÐÔÄÔ¼¹ËèÄ¤Ñ×</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				°Ù ÈÕ ¿È</td>
+			<td style="width:97px;">
+				2</td>
+			<td style="width:97px;">
+				1</td>
+			<td style="width:97px;">
+				3</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				°× ºí</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				ÐÂÉú¶ùÆÆÉË·ç</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				ÐÉ ºì ÈÈ</td>
+			<td style="width:97px;">
+				38</td>
+			<td style="width:97px;">
+				18</td>
+			<td style="width:97px;">
+				56</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				²¼Â³ÊÏ¾ú²¡</td>
+			<td style="width:97px;">
+				1</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				1</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				ÁÜ ²¡</td>
+			<td style="width:97px;">
+				471</td>
+			<td style="width:97px;">
+				210</td>
+			<td style="width:97px;">
+				681</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				Ã· ¶¾</td>
+			<td style="width:97px;">
+				1019</td>
+			<td style="width:97px;">
+				295</td>
+			<td style="width:97px;">
+				1314</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				¹³¶ËÂÝÐýÌå²¡</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				ÑªÎü³æ²¡</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				Å±¼²</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				2</td>
+			<td style="width:97px;">
+				2</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				ÈË¸ÐÈ¾H7N9ÇÝÁ÷¸Ð</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				±ûÀà´«È¾²¡ºÏ¼Æ</td>
+			<td style="width:97px;">
+				4530</td>
+			<td style="width:97px;">
+				2703</td>
+			<td style="width:97px;">
+				7233</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				Á÷ÐÐÐÔ¸ÐÃ°</td>
+			<td style="width:97px;">
+				51</td>
+			<td style="width:97px;">
+				15</td>
+			<td style="width:97px;">
+				66</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				Á÷ÐÐÐÔÈùÏÙÑ×</td>
+			<td style="width:97px;">
+				133</td>
+			<td style="width:97px;">
+				98</td>
+			<td style="width:97px;">
+				231</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				·çÕî</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				¼±ÐÔ³öÑªÐÔ½áÄ¤Ñ×</td>
+			<td style="width:97px;">
+				2</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				2</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				Âé·ç²¡</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				°ßÕîÉËº®</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				ºÚÈÈ²¡</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				°ü³æ²¡</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				Ë¿³æ²¡</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+			<td style="width:97px;">
+				0</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				ÆäËü¸ÐÈ¾ÐÔ¸¹Ðº²¡</td>
+			<td style="width:97px;">
+				1054</td>
+			<td style="width:97px;">
+				226</td>
+			<td style="width:97px;">
+				1280</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				ÊÖ×ã¿Ú²¡</td>
+			<td style="width:97px;">
+				3290</td>
+			<td style="width:97px;">
+				2364</td>
+			<td style="width:97px;">
+				5654</td>
+		</tr>
+		<tr height="24">
+			<td height="24" style="height:24px;width:169px;">
+				¼×ÒÒ±ûÀà×Ü¼Æ</td>
+			<td style="width:97px;">
+				6630</td>
+			<td style="width:97px;">
+				3575</td>
+			<td style="width:97px;">
+				10205</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	2016Äê9ÔÂ·Ý·À²¡ÖØµãÌáÊ¾£º</p>
+<p>
+	¡¡¡¡9ÔÂ·Ý±¾ÊÐÆøÎÂÓÉÈÈ×ªÁ¹£¬ÆøÎÂ±ä»¯½Ï´ó£¬Ñ§Ð£ÐÂÑ§ÆÚ¼¯ÖÐ¿ªÑ§£¬ÇÒ·êÖÐÇï½Ú¼Ñ½ÚÊÐÃñ¾Û²ÍµÈ»î¶¯ËæÖ®Ôö¼Ó¡£ÕâÒ»¼¾½Ú£¬Ó¦×¢ÒâÊ³Ô´ÐÔ¼²²¡µÄÔ¤·À£¬¹Ø×¢ÊÖ×ã¿Ú²¡¡¢Á÷ÐÐÐÔ¸ÐÃ°¾Û¼¯ÐÔÒßÇé£¬·À·¶Õ¯¿¨²¡¶¾²¡µÈ¼²²¡µÄÊäÈë£º</p>
+<p>
+	¡¡¡¡1.ÊÐÃñÓ¦×¢ÒâÒûÊ³ÎÀÉú£¬²»³ÔÉú¡¢°ëÉúÊ³Æ·ºÍ¸¯°Ü±äÖÊÊ³Æ·£»¼ÒÍ¥ÓÈÆäÊÇÅ©´å×Ô°ì¾ÆÏ¯¼ÒÍ¥Ó¦×¢ÒâÊ³Æ·°²È«£¬×¢ÒâÉúÊì·Ö¿ª£»¸÷Ê³Æ·¾­Óªµ¥Î»¡¢ºÐ·¹¹«Ë¾¡¢¼¯ÌåÊ³ÌÃÓ¦¼ÓÇ¿Ê³Æ·ÎÀÉú¹ÜÀí£¬·ÀÖ¹Ê³Æ·ÎÛÈ¾£¬Ô¤·ÀÊ³Ô´ÐÔ¼²²¡·¢Éú¡£</p>
+<p>
+	¡¡¡¡2.ÍÐÓ×»ú¹¹µÈ¼¯Ìåµ¥Î»Ó¦×öºÃ³¿¼ì¡¢½¡¿µÑ²²éºÍÈÕ³£Ïû¶¾µÈÔ¤·ÀÐÔ´ëÊ©£¬Ò»µ©·¢ÏÖÓÐ·¢ÈÈ¡¢¿ÈËÔ¡¢³öÕî¡¢¸¹Ðº¡¢Å»ÍÂµÈ¿ÉÒÉÖ¢×´Õß£¬Ó¦¼°Ê±¸ôÀë£¬¼°Ê±¾ÍÒ½£¬²¢¹æ·¶´¦ÖÃ·ÖÃÚÎïºÍÅÅÐ¹Îï¡£</p>
+<p>
+	¡¡¡¡3.Ñø³É&ldquo;ÇÚÏ´ÊÖ¡¢ÕýÈ·Ï´ÊÖ£¬ÇÚÍ¨·ç£¬½¡¿µÒûÊ³&rdquo;µÈÁ¼ºÃµÄ¸öÈËÎÀÉúÏ°¹ß£¬ÊÊÁ¿ÔË¶¯¡¢³ä×ãÐÝÏ¢£»ÉÙÈ¥ÈË¶àÓµ¼·¡¢¿ÕÆøÎÛ×ÇµÄ³¡Ëù£»Ò»µ©³öÏÖ·¢ÈÈ¡¢¿ÈËÔµÈÒÉËÆÁ÷¸ÐÖ¢×´£¬Ó¦¼°Ê±¾ÍÕï£»ÂýÐÔ¼²²¡»¼Õß¡¢ÀÏÄêÈË¡¢ÌåÈõÕßµÈ¿ÉÑ¡Ôñ½ÓÖÖÁ÷¸ÐÒßÃç½øÐÐÃâÒßÔ¤·À¡£</p>
+<p>
+	¡¡¡¡4.½÷É÷Ç°ÍùÕ¯¿¨²¡¶¾²¡Á÷ÐÐµÄ¹ú¼Ò»òµØÇø£¬ÓÈÆäÊÇÔÐ¸¾¼°¼Æ»®»³ÔÐµÄÅ®ÐÔ£»ÈçÈ·ÐèÇ°ÍùÕâÐ©¹ú¼Ò»òµØÇø£¬Ó¦ÑÏ¸ñ×öºÃ¸öÈË·À»¤´ëÊ©£¬·ÀÖ¹ÎÃ³æ¶£Ò§£»Ò»µ©³öÏÖ·¢ÈÈ¡¢Æ¤ÕîµÈ¿ÉÒÉÖ¢×´£¬Ó¦¼°Ê±¾ÍÕï²¢±¨¸æÂÃÐÐÊ·£¬Í¬Ê±½ÓÊÜÒ½Ñ§Ëæ·Ã¡£</p>
+	     </div></div>
+	        
+ 
+ 
+ 
+
+<input id="title" value="2016Äê8ÔÂÉÏº£ÊÐ·¨¶¨±¨¸æ´«È¾²¡ÒßÇé" type="hidden">
+<input id="url" value="" type="hidden">
+<input id="summary" value="2016Äê8ÔÂÉÏº£ÊÐ·¨¶¨±¨¸æ´«È¾²¡ÒßÇé" type="hidden">
+<input id="objname" value="" type="hidden">
+<input id="nodeid" value="" type="hidden">
+<input id="idleaf" value="" type="hidden">
+
+ 
+<div id="weibo_pos" style="text-align:left;width:871px;height:32px;"></div>
+
+
+
+<br/>
+
+ <div id="print" style="text-align:center;width:100%;height:32px;">
+ <input style="align:center;" class="btn btn-info" tabindex="1" name="Submit" type="button" value="´òÓ¡±¾Ò³" title="´òÓ¡±¾Ò³" onkeypress="window.print();" onClick="window.print();" />
+
+ <input style="align:center;" class="btn btn-info" tabindex="2" name="Submit2" type="button" value="¹Ø±Õ´°¿Ú" title="¹Ø±Õ´°¿Ú" onkeypress="window.close();" onClick="window.close();" />
+ </div>
+	      <!--
+                    <h2>Ïà¹ØÐÂÎÅ</h2>
+
+                    <ul class="list point">
+
+                   
+<BR><BR><BR><BR>    
+      -->    
+                    </ul>
+                    </div>
+                    <div class="boxBg"></div>
+
+                </div>
+
+                
+
+            </div>
+
+            <div class="mainLeft g7 grid glast gtop" style="margin-top:-10px" id="rightSidebar">
+
+            	 <iframe height="185px" scrolling="No" frameborder="0"  src="/wsj/n439/n3887/index.html"></iframe>
+  <div class="box subject mtop">
+  <div class="Padding">
+
+                    <h2>ÖØÒª×¨Ìâ<a href="/wsj/n2006/index.html" class="more">¸ü¶à×¨Ìâ</a></h2>
+
+                    <ul>
+			
+
+<li><a href="/wsj/n2006/n4180/index.html">¶þ´Î¹©Ë®£¨ÓÃ»§Ë®ÁúÍ·Ë®£©Ë®ÖÊ¼à²âÐÅÏ¢</a></li>
+
+
+
+
+<li><a href="/wsj/n2006/n4081/index.html">ÊÐÕþ¸®ÊµÊÂÏîÄ¿</a></li>
+
+
+
+
+<li><a href="/wsj/n2006/n4137/index.html">ÉÏº£ÎÀÉú×´¿ö±¨¸æ</a></li>
+
+
+
+
+<li><a href="/wsj/n2006/n2007/index.html">Éî»¯Ò½¸Ä</a></li>
+
+
+
+
+<li><a href="/wsj/n2006/n2012/index.html">ÉçÇøÎÀÉú·þÎñ</a></li>
+
+
+
+
+<li><a href="/wsj/n2006/n2020/index.html">±¾ÊÐ»ý¼«·À¿ØÈË¸ÐÈ¾H7N9ÇÝÁ÷¸Ð×¨Ìâ</a></li>
+
+
+
+
+<li><a href="/wsj/n2006/n2029/index.html">Ò½ÎñÇàÄê¹ÜÀíÊ®½ÜÆÀÑ¡</a></li>
+
+
+                  
+
+                    </ul>
+                    </div>
+                    <div class="boxBg"></div>
+
+                </div>
+
+                  <div class="blog mtop">
+
+                	<ul>
+
+                    	<li class="m1"><a href="http://e.weibo.com/u/2372649470?ref=http%3A%2F%2Fs.weibo.com%2Fweibo%2F%2525E4%2525B8%25258A%2525E6%2525B5%2525B7%2525E5%2525B8%252582%2525E5%25258D%2525AB%2525E7%252594%25259F%2525E5%2525B1%252580%3Ftopnav%3D1%26wvr%3D5%26b%3D1"  target="_blank" title="ÎÀÉúÎ¢²©"><img src="/wsj/images/blog01.jpg"/ alt="ÎÀÉúÎ¢²©"></a></li>
+
+                        <li class="m2"><a href="http://e.weibo.com/sh12356?ref=http%3A%2F%2Fwidget.weibo.com%2Fweiboshow%2Findex.php%3Flanguage%3D%26width%3D0%26height%3D200%26fansRow%3D2%26ptype%3D1%26speed%3D0%26skin%3D1%26isTitle%3D0%26noborder%3D0%26isWeibo%3D1%26isFans%3D0%26uid%3D2583860083%26verifier%3Dd015d401%26dpc%3D1" target="_blank" title="¼ÆÉúÎ¢²©"><img src="/wsj/images/blog02.jpg"/ alt="¼ÆÉúÎ¢²©"></a></li>
+
+                        
+
+                    </ul>
+
+                </div>
+                
+
+            </div>
+
+            
+
+            
+
+        </div>
+
+	<script width="100%" height="110px" scrolling="No" frameborder="0" id="bottom" name="bottom" src="/wsj/js/foot.js" type="text/javascript"></script>
+
+
+    </div>
+
+    
+
+</div>
+
+</body>
+
+</html>
